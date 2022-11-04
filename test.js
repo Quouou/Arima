@@ -14,4 +14,4 @@ const arima = new ARIMA({
 
 
 
-console.log(arima.predict(12))
+console.log(arima.predict(10))
